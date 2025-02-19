@@ -1,0 +1,3 @@
+playlistdownload\example\playlist_download\PlaylistDownloadApplication.class
+playlistdownload\example\playlist_download\service\DownloadService.class
+playlistdownload\example\playlist_download\controller\DownloadController.class
